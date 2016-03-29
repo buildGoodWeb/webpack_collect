@@ -1,0 +1,28 @@
+{
+  "name": "webpack_collect",
+  "version": "1.0.0",
+  "description": "webpack collect",
+  "main": "entry.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buildGoodWeb/webpack_collect.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "wkl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buildGoodWeb/webpack_collect/issues"
+  },
+  "homepage": "https://github.com/buildGoodWeb/webpack_collect",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
